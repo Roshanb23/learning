@@ -8,6 +8,7 @@ package studentlist;
 /**
  *
  * @author rosha
+ date
  */
 public class Student {
     
